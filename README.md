@@ -1,4 +1,4 @@
-# Domoticz-Dz_Event-Enphase-Envoy-FW
+# Domoticz Dz_Event Enphase Envoy
 Domoticz/Dz_Event/Enphase Envoy FW
 This repo is a litle personal reminder to grab data from MINE microinverter gateway.
 Enphase treat user as animal.
